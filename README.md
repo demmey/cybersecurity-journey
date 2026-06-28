@@ -1,3 +1,4 @@
+
 # Cybersecurity Journey — Demelvio
 
 Documenting my path from ICT-Beheerder (NATIN, Suriname) into cybersecurity, starting from scratch and learning in public.
@@ -32,3 +33,4 @@ Build toward an internationally-recognized, remote-friendly role in cybersecurit
 | | | |
 
 > I'll update this table as I go — each entry links to a note or write-up in this repo.
+
