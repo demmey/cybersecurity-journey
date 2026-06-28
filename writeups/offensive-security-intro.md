@@ -18,7 +18,7 @@ An intro room that walks through the idea that pages on a website can be "hidden
 ## Key commands / techniques
 
 ```
-No commands used — this was a conceptual/navigation-based room, not CLI-based.
+birb http://example.com (to find hidden unlinked pages)
 ```
 
 ## What I learned
