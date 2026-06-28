@@ -28,9 +28,11 @@ Build toward an internationally-recognized, remote-friendly role in cybersecurit
 
 ## Log
 
-| Date | What I did | Notes |
-|---|---|---|
-| | | |
+| Date| What I did | Notes |
+
+| 2026-06-28 | Completed TryHackMe "Offensive Security Intro" room | First room done — learned hidden pages ≠ secure pages. See /writeups/offensive-security-intro.md |
+
+
 
 > I'll update this table as I go — each entry links to a note or write-up in this repo.
 
